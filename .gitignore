@@ -1,0 +1,15 @@
+derby.log
+.DS_Store
+.classpath
+.project
+.settings
+.idea
+target/
+metastore_db/
+project/target/
+build/
+/bin/
+*.ipr
+*.iws
+*.ensime*
+*.log
