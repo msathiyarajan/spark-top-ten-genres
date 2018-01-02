@@ -1,5 +1,5 @@
 
-##### Data Analytics : Top 10 most rated TV series
+# Data Analytics : Top 10 most rated TV series
 
 A Spark application that determines the top 10 most rated TV series' **genres** of TV series with over 10 episodes.
 
